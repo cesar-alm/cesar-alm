@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!-- If you're using "main" as default branch -->
-![Metrics](https://github.com/my-github-user/my-github-user/blob/main/github-metrics.svg)
+![Metrics](https://github.com/cesar-alm/cesar-alm/blob/main/github-metrics.svg)
 
 <!--
 **cesar-alm/cesar-alm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
