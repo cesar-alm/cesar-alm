@@ -1,7 +1,7 @@
 ### 
 
 ### 👋 Hi, and welcome to my `GitHub`.
-### 📗 I recommend that you take a look at [my website](https://www.cesar-alm.github.io) if you want more information about my projects (both past and current ones).
+### 📗 I recommend that you take a look at [my website](https://cesar-alm.github.io/) if you want more information about my projects (both past and current ones).
 
 <!-- If you're using "main" as default branch -->
 ![Metrics](https://github.com/cesar-alm/cesar-alm/blob/main/github-metrics.svg)
